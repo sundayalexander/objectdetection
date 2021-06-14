@@ -1,0 +1,8 @@
+keras==2.4.3
+numpy==1.19.3
+pillow
+scipy
+h5py
+matplotlib==3.3.2
+opencv-python
+keras-resnet==0.2.0
